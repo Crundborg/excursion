@@ -1,14 +1,23 @@
-html {
-  font-family: Verdana;
-  background-color: black;
-  text-align: center;
-}
+html {text-align: center;}
+
 h1 {
   font-weight: normal;
   font-size: 50px;
   font-color: white;
 }
+.blurb {
+  font-size: 21px;
+  font-color: gray;
+}
 .download {
   font-color: aquamarine;
   font-size: 16px;
+}
+.header2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+.copy {
+  text-align: right;
+  font-color: gray;
 }
