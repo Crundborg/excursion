@@ -1,17 +1,23 @@
-html {text-align: center;}
+html
 
+body {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
 h1 {
   font-weight: normal;
   font-size: 50px;
-  font-color: white;
 }
 .blurb {
   font-size: 21px;
-  font-color: gray;
+  color: gray;
 }
 .download {
-  font-color: aquamarine;
+  color: aquamarine;
   font-size: 16px;
+  text-decoration: underline;
 }
 .header2 {
   font-weight: 300;
@@ -19,5 +25,5 @@ h1 {
 }
 .copy {
   text-align: right;
-  font-color: gray;
+  color: gray;
 }
